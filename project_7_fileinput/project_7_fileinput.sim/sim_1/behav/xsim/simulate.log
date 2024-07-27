@@ -1,0 +1,34 @@
+Time resolution is 1 ps
+Angle:      -63853, Sine: -0.827713, Cosine: 0.561996
+Angle:       51472, Sine: 0.707428, Cosine: 0.707428
+Angle:      205887, Sine: 0.000000, Cosine: -1.000473
+Angle:     -154416, Sine: -0.707428, Cosine: -0.707428
+Angle:       85786, Sine: 0.966415, Cosine: 0.258911
+Angle:      308831, Sine: -1.000473, Cosine: 0.000000
+Angle:      285955, Sine: -0.940048, Cosine: -0.342194
+Angle:      183011, Sine: 0.342194, Cosine: -0.940048
+Angle:     -183011, Sine: -0.342194, Cosine: -0.940048
+Angle:      228764, Sine: -0.342194, Cosine: -0.940048
+Angle:      154987, Sine: 0.701172, Cosine: -0.713623
+Angle:       10118, Sine: 0.153946, Cosine: 0.988495
+Angle:       63853, Sine: 0.827713, Cosine: 0.561996
+Angle:       32942, Sine: 0.481949, Cosine: 0.876709
+Angle:       58419, Sine: 0.778320, Cosine: 0.628571
+Angle:       47611, Sine: 0.664597, Cosine: 0.747787
+Angle:       32583, Sine: 0.477158, Cosine: 0.879303
+Angle:       39794, Sine: 0.570862, Cosine: 0.821594
+Angle:       22891, Sine: 0.342438, Cosine: 0.939957
+Angle:       34486, Sine: 0.502441, Cosine: 0.865097
+Angle:       52227, Sine: 0.715546, Cosine: 0.699219
+Angle:       17936, Sine: 0.270401, Cosine: 0.963196
+Angle:       19181, Sine: 0.288589, Cosine: 0.957947
+Angle:       22816, Sine: 0.341309, Cosine: 0.940445
+Angle:       57408, Sine: 0.768509, Cosine: 0.640549
+Angle:        6116, Sine: 0.093338, Cosine: 0.996063
+Angle:       13545, Sine: 0.205368, Cosine: 0.979141
+Angle:       19842, Sine: 0.298294, Cosine: 0.954926
+Angle:       23037, Sine: 0.344543, Cosine: 0.939240
+Angle:       47628, Sine: 0.664780, Cosine: 0.747635
+Angle:       58086, Sine: 0.775131, Cosine: 0.632553
+Simulation completed.
+$finish called at time : 6220 ns : File "D:/vts_vivado/project_7_fileinput/project_7_fileinput.srcs/sim_1/new/tb.v" Line 77
