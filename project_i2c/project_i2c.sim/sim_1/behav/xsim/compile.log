@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vts_vivado/project_i2c/project_i2c.srcs/sources_1/new/i2c.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eeprom_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vts_vivado/project_i2c/project_i2c.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
